@@ -61,7 +61,7 @@ body{
 .banner{
     display: flex;
     flex-direction: column;
-    background-image: url(../../img/wallpaper.jpeg);
+    background: url(../../img/wallpaper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
