@@ -9,4 +9,12 @@
   <img src="./img-video-Readme/Front-img1.png" alt="Imagem da Front Page">
   <img src="./img-video-Readme/Front-img2.png" alt="Imagem da Front Page"> 
 </div>
+
+##
+<br>
+<br>
+<div>
+  <h1>Click aqui para acessar o site hospedado no GitHub Pages: <a href="https://ricardosantanaevangelista.github.io/Front-Page-Renposiva/">Site</a></h1>
+
+ </div>
   
